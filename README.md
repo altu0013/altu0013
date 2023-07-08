@@ -6,7 +6,7 @@ Studying Computer Programming at Algonquin College, Ottawa
 Exploring different programming languages, frameworks, and tools
 Building practical projects to apply and reinforce my knowledge
 🌱 I'm Currently Learning
-Java
+[Java]
 Python
 Hibernate
 React
